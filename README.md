@@ -3,4 +3,4 @@ First Project on Github
 
 Hello World! 
 
-I'm just an animal looking for a home and, Share the same space for a minute or two.
+I'm just an animal looking for a home and, share the same space for a minute or two.
